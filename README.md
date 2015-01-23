@@ -5,7 +5,7 @@ standard static website (eg. landing site, company website, etc.) and less for a
 be modified to be used as a Jekyll blog, if desired (shouldn't take too much time at all, actually). Or you can just
 use plain jane, out-of-the-box [Jekyll](http://jekyllrb.com/).
 
-I've added in...
+I'm using...
 - [Jekyll](http://jekyllrb.com/) static site generation
 - [Bootstrap](http://getbootstrap.com/) CSS framework via [Bootstrap Sass](https://github.com/twbs/bootstrap-sass)
 - [Jekyll Assets](https://github.com/ixti/jekyll-assets) asset pipeline
