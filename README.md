@@ -84,4 +84,4 @@ s3_website push
 
 Something note worthy:
 
-I use DOM-based Javascript routing based on http://goo.gl/EUTi53 by Paul Irish. It's pretty neat stuff. I actually snagged it from Roots.io who snagged the concept from Paul Irish.
+I use DOM-based Javascript routing based on http://goo.gl/EUTi53 by Paul Irish. It's pretty neat stuff. I actually snagged it from [Roots.io](https://github.com/roots/roots/blob/master/assets/js/_main.js) who snagged the concept from Paul Irish.
