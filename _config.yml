@@ -1,0 +1,27 @@
+# Site settings
+
+title:      Jekyll Base
+email:      hello@troymcginnis.com.com
+base_url:   "/"
+url:        "http://www.troymcginnis.com"
+
+
+# Meta Tags
+
+description: > #
+    Website description to go in the description meta tag
+
+keywords: > #
+    keywords, keywords, keywords
+
+
+# Social
+
+twitter:    troy_mcginnis
+github:     troymcginnis
+google:     https://plus.google.com/116820089981380177925
+
+
+# Build settings
+
+permalink: pretty
