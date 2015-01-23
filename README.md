@@ -1,6 +1,6 @@
 # Jekyll Base Project
 
-Just as it sounds. This is a clean base for starting Jekyll static stie projects. This setup is designed more for a
+Just as it sounds. This is a clean base for starting Jekyll static site projects. This setup is designed more for a
 standard static website (eg. landing site, company website, etc.) and less for a blogging site. This can definitely
 be modified to be used as a Jekyll blog, if desired (shouldn't take too much time at all, actually). Or you can just
 use plain jane, out-of-the-box [Jekyll](http://jekyllrb.com/).
