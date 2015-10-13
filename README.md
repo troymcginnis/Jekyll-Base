@@ -89,3 +89,4 @@ I use DOM-based Javascript routing based on http://goo.gl/EUTi53 by Paul Irish. 
 # TODO
 
 - Update project to use Gulp and Browsersync
+- Link project to useful Sass repo
