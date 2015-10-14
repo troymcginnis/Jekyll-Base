@@ -25,3 +25,9 @@ google:     https://plus.google.com/116820089981380177925
 # Build settings
 
 permalink: pretty
+assets:
+    sources:
+        - _assets/images
+        - _assets/stylesheets
+        - _assets/javascripts
+        - _assets/download
