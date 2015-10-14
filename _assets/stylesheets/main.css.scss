@@ -6,12 +6,14 @@
 @import "variables";
 @import "mixins";
 
+// Common
+@import "common/global";
+@import "common/type";
+
 // Components
-@import "buttons";
-@import "jumbotron";
+@import "components/navbar";
+@import "components/buttons";
+@import "components/jumbotron";
 
 // Pages
 @import "pages/home";
-
-// Misc
-@import "links";
