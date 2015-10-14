@@ -38,6 +38,13 @@ Just run the following command:
 bundle install
 ```
 
+Or if you don't want to deploy to S3:
+
+```
+bundle install --without deploy
+```
+
+
 ## 3. Go at it...
 
 Jekyll comes shipped with a development server and we use [Jekyll Assets](https://github.com/ixti/jekyll-assets) to manage all of our assets, so... just go at it bro.
