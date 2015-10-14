@@ -2,7 +2,7 @@
 
 title:      Jekyll Base
 email:      hello@troymcginnis.com
-base_url:   "/"
+baseurl:    "/"
 url:        "http://www.troymcginnis.com"
 
 
