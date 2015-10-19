@@ -1,9 +1,11 @@
+// Custom variables
+@import "variables";
+
 // Vendor imports
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
-// Core variables and mixins
-@import "variables";
+// Custom mixins
 @import "mixins";
 
 // Common
