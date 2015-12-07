@@ -1,4 +1,4 @@
-# Jekyll Base Project
+# Jekyll Base Project [Bootstrap]
 
 Just as it sounds. This is a clean base for starting Jekyll static site projects. This setup is designed more for a
 standard static website (eg. landing site, company website, etc.) and less for a blogging site. This can definitely
@@ -72,6 +72,10 @@ jekyll build --watch
 ```
 
 # Deploying
+
+Once you're ready to deploy, make sure to run `jekyll build` first to clean out any old or cached asset files, then follow on of the following instructions:
+
+## Amazon S3 (Optional)
 
 Deploying to S3 is easypeezy with [S3 Website](https://github.com/laurilehmijoki/s3_website).
 
